@@ -1,0 +1,34 @@
+# Core Data Analysis Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+
+# Visualization Libraries
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Web Application Framework
+streamlit>=1.28.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.16.0
+
+# Model Serialization (comes with Python, but listing for clarity)
+# pickle (built-in)
+
+# Optional: Additional useful packages
+# Uncomment if needed for extended functionality
+
+# openpyxl>=3.0.0          # For Excel file support
+# xlrd>=2.0.0              # For reading older Excel formats
+# scipy>=1.9.0             # For advanced statistical functions
+# plotly>=5.10.0           # For interactive visualizations
+# xgboost>=1.7.0           # For XGBoost models
+# lightgbm>=3.3.0          # For LightGBM models
+# tensorflow>=2.10.0       # For deep learning models
+# keras>=2.10.0            # For neural networks
+# shap>=0.41.0             # For model explainability
