@@ -72,7 +72,7 @@ This project demonstrates the complete data science workflow from raw data to de
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/supermarket-sales-analysis.git
+git clone https://github.com/MZ-314/Supermart-Grocery-Sales---Retail-Analytics-Dataset.git
 cd supermarket-sales-analysis
 ```
 
@@ -416,7 +416,7 @@ For questions or collaboration opportunities, please open an issue or submit a p
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/supermarket-sales-analysis.git
+git clone https://github.com/MZ-314/Supermart-Grocery-Sales---Retail-Analytics-Dataset.git
 cd supermarket-sales-analysis
 
 # Create virtual environment
